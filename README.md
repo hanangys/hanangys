@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanangys
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning HTML, CSS,Javascript and PHP
+- 🌱 I’m currently learning HTML, CSS, Javascript, React Js, Python and PHP
 - 📫 How to reach me hanang.yuandhichas@gmail.com
 
 <!---
