@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, React Js, Python, SQL and PHP
 - 📫 How to reach me :
       hanang.yuandhichas@gmail.com
-      https://www.linkedin.com/in/hanangys
+      // https://www.linkedin.com/in/hanangys
 
 <!---
 hanangys/hanangys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
