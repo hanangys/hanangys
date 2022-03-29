@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web programming, Data Science
 - 🌱 I’m currently learning HTML, CSS, Javascript, React Js, Python, SQL and PHP
 - 📫 How to reach me :
-      hanang.yuandhichas@gmail.com
+      setyadihanang@gmail.com
       // https://www.linkedin.com/in/hanangys
 
 <!---
