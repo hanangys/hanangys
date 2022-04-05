@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanangys
-- 👀 I’m interested in Web programming, Data Science
+- 👀 I’m interested in Web programming, Data Science, Data Analyst
 - 🌱 I’m currently learning HTML, CSS, Javascript, React Js, Python, SQL and PHP
 - 📫 How to reach me :
       setyadihanang@gmail.com
